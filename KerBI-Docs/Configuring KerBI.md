@@ -1,0 +1,1 @@
+KerBI uses the `python-dotenv` library to pass configuration data to the various system components. You can find an example `.env` file in the root folder of each of the application root folders.
